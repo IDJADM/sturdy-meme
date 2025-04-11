@@ -1,4 +1,4 @@
-Appdelegate.m:
+AppDelegate.m:
 Cód -pod init
 target:
 Ruby
