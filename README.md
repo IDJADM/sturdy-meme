@@ -1,4 +1,4 @@
-# sturdy-meme
+Appdelegate.m:
 Cód -pod init
 target:
 Ruby
